@@ -1,0 +1,15 @@
+C:\Users\crist\source\repos\InterfazGrafica1\InterfazGrafica1\bin\Debug\InterfazGrafica1.exe.config
+C:\Users\crist\source\repos\InterfazGrafica1\InterfazGrafica1\bin\Debug\InterfazGrafica1.exe
+C:\Users\crist\source\repos\InterfazGrafica1\InterfazGrafica1\bin\Debug\InterfazGrafica1.pdb
+C:\Users\crist\source\repos\InterfazGrafica1\InterfazGrafica1\obj\Debug\InterfazGrafica1.csprojAssemblyReference.cache
+C:\Users\crist\source\repos\InterfazGrafica1\InterfazGrafica1\obj\Debug\MainWindow.g.cs
+C:\Users\crist\source\repos\InterfazGrafica1\InterfazGrafica1\obj\Debug\App.g.cs
+C:\Users\crist\source\repos\InterfazGrafica1\InterfazGrafica1\obj\Debug\InterfazGrafica1_MarkupCompile.cache
+C:\Users\crist\source\repos\InterfazGrafica1\InterfazGrafica1\obj\Debug\InterfazGrafica1_MarkupCompile.lref
+C:\Users\crist\source\repos\InterfazGrafica1\InterfazGrafica1\obj\Debug\MainWindow.baml
+C:\Users\crist\source\repos\InterfazGrafica1\InterfazGrafica1\obj\Debug\InterfazGrafica1.g.resources
+C:\Users\crist\source\repos\InterfazGrafica1\InterfazGrafica1\obj\Debug\InterfazGrafica1.Properties.Resources.resources
+C:\Users\crist\source\repos\InterfazGrafica1\InterfazGrafica1\obj\Debug\InterfazGrafica1.csproj.GenerateResource.cache
+C:\Users\crist\source\repos\InterfazGrafica1\InterfazGrafica1\obj\Debug\InterfazGrafica1.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\InterfazGrafica1\InterfazGrafica1\obj\Debug\InterfazGrafica1.exe
+C:\Users\crist\source\repos\InterfazGrafica1\InterfazGrafica1\obj\Debug\InterfazGrafica1.pdb
