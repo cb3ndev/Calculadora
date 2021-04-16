@@ -22,7 +22,7 @@
         </Grid.RowDefinitions>
 
         <Border BorderThickness="2" BorderBrush="Black" Grid.ColumnSpan="4" Grid.Column="0" Margin="20" >
-            <TextBlock Name="pantalla" HorizontalAlignment="Center" VerticalAlignment="Center">AAAa</TextBlock>
+            <TextBlock Name="pantalla" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
         </Border>
 
 
